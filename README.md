@@ -3,7 +3,7 @@
 A fun and interactive greeting app for kids, designed with a playful UI and vibrant colors! 🚀  
 
 ## 📸 Preview  
-![Kids Greeting App](YOUR_IMAGE_URL)  
+![Kids Greeting App](https://github.com/thehariompandey/greeting-app/blob/main/Screenshot%20(309).png)  
 
 ---
 
